@@ -224,21 +224,22 @@
             h5 Tabla 1.
             span <em>Peligros y controles de los equipos, utensilios y herramientas.</em>
         
-        table.tabla-d.text-center.mb-4
-          thead
-            tr
-              th Peligro
-              th Control
-          tbody
-            tr
-              td Contaminación del producto (plátano) por herramientas mal higienizadas.
-              td Higienizar muy bien los equipos y herramientas al finalizar cada proceso.
-            tr
-              td Contaminación cruzada por mal almacenamiento entre productos para fertilizar.
-              td Almacenar separadamente los fertilizantes de los insumos para evitar la contaminación entre productos.
-            tr
-              td Mala lectura de los equipos por la inadecuada calibración.
-              td Realizar mantenimiento preventivo a los equipos para evitar malas lecturas y la descomposición de estos.
+        .tabla-d.mb-4
+          table.text-center
+            thead
+              tr
+                th Peligro
+                th Control
+            tbody
+              tr
+                td Contaminación del producto (plátano) por herramientas mal higienizadas.
+                td Higienizar muy bien los equipos y herramientas al finalizar cada proceso.
+              tr
+                td Contaminación cruzada por mal almacenamiento entre productos para fertilizar.
+                td Almacenar separadamente los fertilizantes de los insumos para evitar la contaminación entre productos.
+              tr
+                td Mala lectura de los equipos por la inadecuada calibración.
+                td Realizar mantenimiento preventivo a los equipos para evitar malas lecturas y la descomposición de estos.
 
     Separador
     
@@ -311,21 +312,22 @@
           h5 Tabla 2.
           span <em>Peligros y controles en el uso del agua.</em>
 
-        table.tabla-d.text-center
-          thead(style="background-color: #7D9FFB;color: white;")
-            tr
-              th Peligro
-              th Control
-          tbody
-            tr
-              td Contaminación del agua almacenada por mala limpieza en los tanques.
-              td Lavar los tanques mínimos una vez al mes.
-            tr
-              td Contaminación microbiana por bajo valor de cloro residual en el agua.
-              td Hacer muestreo en la red de abastecimiento para ver si hay alguna falla en la tubería.
-            tr
-              td Contaminación microbiológica en los racimos de plátano por uso de agua no potable en la poscosecha.
-              td Usar en lo posible agua potable para evitar contaminación en el producto.
+        .tabla-d
+          table.text-center
+            thead(style="background-color: #7D9FFB;color: white;")
+              tr
+                th Peligro
+                th Control
+            tbody
+              tr
+                td Contaminación del agua almacenada por mala limpieza en los tanques.
+                td Lavar los tanques mínimos una vez al mes.
+              tr
+                td Contaminación microbiana por bajo valor de cloro residual en el agua.
+                td Hacer muestreo en la red de abastecimiento para ver si hay alguna falla en la tubería.
+              tr
+                td Contaminación microbiológica en los racimos de plátano por uso de agua no potable en la poscosecha.
+                td Usar en lo posible agua potable para evitar contaminación en el producto.
 
     Separador
 
@@ -390,21 +392,22 @@
           h5 Tabla 3.
           span <em>Peligros y controles en el uso del agua.</em>
 
-        table.tabla-d.overflow-auto.text-center
-          thead
-            tr
-              th Peligros
-              th Controles
-          tbody
-            tr
-              td Suelos pobres que no aporten los nutrientes que necesita el cultivo.
-              td Realizar análisis de suelos antes de establecer el cultivo.
-            tr
-              td Suelos erosionados y poco fértiles por mal uso de la maquinaria.
-              td Fertilizar los suelos con materia orgánica bien compostada.
-            tr
-              td 
-              td Hacer un buen manejo del suelo utilizando técnicas agrícolas que no alteren las propiedades físicas y químicas de este recurso.
+        .tabla-d
+          table.text-center
+            thead
+              tr
+                th Peligros
+                th Controles
+            tbody
+              tr
+                td Suelos pobres que no aporten los nutrientes que necesita el cultivo.
+                td Realizar análisis de suelos antes de establecer el cultivo.
+              tr
+                td Suelos erosionados y poco fértiles por mal uso de la maquinaria.
+                td Fertilizar los suelos con materia orgánica bien compostada.
+              tr
+                td 
+                td Hacer un buen manejo del suelo utilizando técnicas agrícolas que no alteren las propiedades físicas y químicas de este recurso.
 
     Separador
 
@@ -493,19 +496,19 @@
           h5 Tabla 4.
           span <em>Peligros y controles de las semillas.</em>
 
-
-        table.tabla-d.text-center
-          thead(style="background-color: #7D9FFB;color: white;")
-            tr
-              th Peligros
-              th Controles
-          tbody
-            tr
-              td Semillas de mala calidad que pueden afectar la producción de plátano.
-              td La semilla debe ser adquirida de un proveedor confiable que realice todos los parámetros de calidad requeridos.
-            tr
-              td La semilla se puede contaminar si no se realiza la adecuación correspondiente.
-              td Desinfectar los equipos utilizados en la extracción de los colinos y cada vez que se utilicen los implementos se deben lavar para que no haya contaminación cruzada de semilla a semilla.
+        .tabla-d
+          table.text-center
+            thead(style="background-color: #7D9FFB;color: white;")
+              tr
+                th Peligros
+                th Controles
+            tbody
+              tr
+                td Semillas de mala calidad que pueden afectar la producción de plátano.
+                td La semilla debe ser adquirida de un proveedor confiable que realice todos los parámetros de calidad requeridos.
+              tr
+                td La semilla se puede contaminar si no se realiza la adecuación correspondiente.
+                td Desinfectar los equipos utilizados en la extracción de los colinos y cada vez que se utilicen los implementos se deben lavar para que no haya contaminación cruzada de semilla a semilla.
 
     Separador
 
@@ -588,17 +591,18 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 5.
           span <em>Peligros y controles en el uso del agua.</em>
-        table.tabla-d.text-center
-          thead
-            tr
-              th Peligros
-              th Controles
-              th Acciones correctivas
-          tbody
-            tr
-              td Suelos pobres que no aporten los nutrientes que necesita el cultivo.<br><br>Usar sobredosis o subdosis de agroquímicos y pesticidas.<br><br>Que haya contaminación química en el plátano por mal uso de los plaguicidas en la producción.<br><br>Usar productos químicos vencidos en el cultivo de plátano puede poner en riesgo la salud del consumidor final.
-              td Realizar pruebas fisicoquímicas al agua para garantizar que sea segura para el cultivo.<br><br>Realizar un control de los agroquímicos almacenados descartando los que están vencidos y dando prioridad de uso a los próximos a vencer.<br><br>Almacenar	los productos químicos en lugares seguros, destinado sólo para ese fin.
-              td Disponer de otras fuentes de suministro de agua en caso de contaminación de las existentes.<br><br>Calibrar equipos y utilizar adecuadamente las boquillas de las máquinas fumigadoras.<br><br>Descartar los productos vencidos.<br><br>Realizar un control de calidad de los productos químicos antes de su uso.	Descartar el plátano contaminado.
+        .tabla-d
+          table.text-center
+            thead
+              tr
+                th Peligros
+                th Controles
+                th Acciones correctivas
+            tbody
+              tr
+                td Suelos pobres que no aporten los nutrientes que necesita el cultivo.<br><br>Usar sobredosis o subdosis de agroquímicos y pesticidas.<br><br>Que haya contaminación química en el plátano por mal uso de los plaguicidas en la producción.<br><br>Usar productos químicos vencidos en el cultivo de plátano puede poner en riesgo la salud del consumidor final.
+                td Realizar pruebas fisicoquímicas al agua para garantizar que sea segura para el cultivo.<br><br>Realizar un control de los agroquímicos almacenados descartando los que están vencidos y dando prioridad de uso a los próximos a vencer.<br><br>Almacenar	los productos químicos en lugares seguros, destinado sólo para ese fin.
+                td Disponer de otras fuentes de suministro de agua en caso de contaminación de las existentes.<br><br>Calibrar equipos y utilizar adecuadamente las boquillas de las máquinas fumigadoras.<br><br>Descartar los productos vencidos.<br><br>Realizar un control de calidad de los productos químicos antes de su uso.	Descartar el plátano contaminado.
        
     Separador
 
@@ -627,12 +631,10 @@
             p Los estiércoles sin tratamiento contienen una alta carga microbiana que puede afectar la sanidad del cultivo. Por ello, deben someterse a un proceso adecuado de compostaje antes de su aplicación.
 
           .row(titulo="Almacenamiento seguro")
-            .col-md-6
-              p Los abonos orgánicos deben resguardarse en un área separada de la unidad productiva para prevenir la contaminación cruzada con el cultivo.
+            p Los abonos orgánicos deben resguardarse en un área separada de la unidad productiva para prevenir la contaminación cruzada con el cultivo.
 
           .row(titulo="Control de calidad en producción propia")
-            .col-md-6
-              p Si los abonos orgánicos se elaboran dentro del predio, es necesario llevar un registro detallado del proceso de transformación y realizar pruebas microbiológicas que confirmen la ausencia de patógenos como Salmonella, Escherichia coli y Enterobacter
+            p Si los abonos orgánicos se elaboran dentro del predio, es necesario llevar un registro detallado del proceso de transformación y realizar pruebas microbiológicas que confirmen la ausencia de patógenos como Salmonella, Escherichia coli y Enterobacter
 
       .d-none.d-lg-block.col-lg-3
         figure

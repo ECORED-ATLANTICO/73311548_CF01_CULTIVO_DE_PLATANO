@@ -6,6 +6,8 @@
       .titulo-principal__numero
         span 2
       h1 Implementación de las BPA
+
+    p.mb-4.mb-lg-5 La implementación exitosa de las Buenas Prácticas Agrícolas (BPA) para el plátano requiere una planificación cuidadosa y la ejecución precisa de diferentes etapas, analizando las ventajas y desventajas de su adopción como una decisión estratégica para el productor. Es importante determinar los beneficios, como el acceso a nuevos mercados y la mejora de la eficiencia, así como los desafíos, que incluyen los costos iniciales y los cambios culturales necesarios. Para su implementación se debe contemplar el mapeo de la finca y la identificación de entes certificadores como el ICA e ICONTEC.
   
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-5.col-xl-3
@@ -266,7 +268,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span <em>Croquis de finca.</em>
-        img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/16.png", alt="La figura presenta la integración tres lineamientos clave, que destacan para garantizar la calidad de las Buenas Prácticas Agrícolas, como son, protección sanitaria, inocuidad de alimentos y sostenibilidad ambiental.")
+        img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/16.png", alt="Croquis de finca")
         figcaption <strong>Nota.</strong> Japan International Cooperation Agency (2011).
 
     Separador

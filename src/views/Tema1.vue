@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 1
         h1 Generalidades de las buenas prácticas agrícolas
-      p A nivel mundial, los sectores de la producción agrícola y la alimentación se han visto muy afectados por situaciones como la contaminación por bacterias en los alimentos (Salmonella, Escherichia coli, Campyrobacter, entre otras), la acumulación de pesticidas, el uso de antibióticos, el fenómeno de las vacas locas, entre otros factores, que han marcado un punto de referencia en la seguridad alimentaria.
+      p A nivel mundial, los sectores de la producción agrícola y la alimentación se han visto muy afectados por situaciones como la contaminación por bacterias en los alimentos (<em>Salmonella</em>, <em>Escherichia coli</em>, <em>Campyrobacter</em>, entre otras), la acumulación de pesticidas, el uso de antibióticos, el fenómeno de las vacas locas, entre otros factores, que han marcado un punto de referencia en la seguridad alimentaria.
         
       Separador
 
