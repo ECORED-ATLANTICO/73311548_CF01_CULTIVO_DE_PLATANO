@@ -228,8 +228,8 @@
           table.text-center
             thead
               tr
-                th Peligro
-                th Control
+                th Peligros
+                th Controles
             tbody
               tr
                 td Contaminación del producto (plátano) por herramientas mal higienizadas.
@@ -590,7 +590,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 5.
-          span <em>Peligros y controles en el uso del agua.</em>
+          span <em>Peligros, controles y acciones correctivas en el uso de agroquímicos.</em>
         .tabla-d
           table.text-center
             thead
@@ -600,9 +600,9 @@
                 th Acciones correctivas
             tbody
               tr
-                td Suelos pobres que no aporten los nutrientes que necesita el cultivo.<br><br>Usar sobredosis o subdosis de agroquímicos y pesticidas.<br><br>Que haya contaminación química en el plátano por mal uso de los plaguicidas en la producción.<br><br>Usar productos químicos vencidos en el cultivo de plátano puede poner en riesgo la salud del consumidor final.
+                td Aguas contaminadas con agentes químicos, físicos y biológicos.<br><br>Usar sobredosis o subdosis de agroquímicos y pesticidas.<br><br>Que haya contaminación química en el plátano por mal uso de los plaguicidas en la producción.<br><br>Usar productos químicos vencidos en el cultivo de plátano puede poner en riesgo la salud del consumidor final.
                 td Realizar pruebas fisicoquímicas al agua para garantizar que sea segura para el cultivo.<br><br>Realizar un control de los agroquímicos almacenados descartando los que están vencidos y dando prioridad de uso a los próximos a vencer.<br><br>Almacenar	los productos químicos en lugares seguros, destinado sólo para ese fin.
-                td Disponer de otras fuentes de suministro de agua en caso de contaminación de las existentes.<br><br>Calibrar equipos y utilizar adecuadamente las boquillas de las máquinas fumigadoras.<br><br>Descartar los productos vencidos.<br><br>Realizar un control de calidad de los productos químicos antes de su uso.	Descartar el plátano contaminado.
+                td Disponer de otras fuentes de suministro de agua en caso de contaminación de las existentes.<br><br>Calibrar equipos y utilizar adecuadamente las boquillas de las máquinas fumigadoras.<br><br>Descartar los productos vencidos.
        
     Separador
 

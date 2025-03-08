@@ -3,7 +3,7 @@ export default {
     Name:
       'Generalidades de las prácticas agrícolas para el cultivo del plátano',
     Description:
-      'Las prácticas agrícolas para el cultivo del plátano son un conjunto de técnicas y métodos utilizados para cultivar, cuidar y cosechar esta planta de manera eficiente y sostenible. Estas prácticas incluyen la selección adecuada del terreno, la preparación del suelo, la siembra de hijuelos, el riego, la fertilización, el control de plagas y enfermedades, la poda y el manejo postcosecha',
+      'Las prácticas agrícolas para el cultivo del plátano son un conjunto de técnicas y métodos utilizados para cultivar, cuidar y cosechar esta planta de manera eficiente y sostenible. Estas prácticas incluyen la selección adecuada del terreno, la preparación del suelo, la siembra de hijuelos, el riego, la fertilización, el control de plagas y enfermedades, la poda y el manejo poscosecha',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -251,14 +251,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Viviana Páez Perilla',
-          cargo: 'Experta temática',
-          centro: 'Centro Agroindustrial Regional Quindío',
+          nombre: 'Paola Andrea Bobadilla Gutiérrez',
+          cargo: 'Guionista línea de producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
-          nombre: 'Paola Andrea Bobadilla Gutiérrez',
-          cargo: 'Guionista-Línea de producción',
-          centro: 'Centro Agroindustrial Regional Quindío',
+          nombre: 'Diana Lizeth Lozada Diaz',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -267,16 +267,16 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Fabio Fonseca Arguelles',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrollador <i>full stack junior</i>',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
@@ -286,22 +286,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Guillermo Alvarez García',
-          cargo: 'Evaluador Instruccional',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustria - Regional Atlántico',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Evaluador Instruccional',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustria - Regional Atlántico',
-        },
-        {
-          nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluador Instruccional',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustria - Regional Atlántico',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

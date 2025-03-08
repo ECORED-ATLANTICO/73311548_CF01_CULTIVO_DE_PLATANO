@@ -14,7 +14,7 @@
         figure
           img.img-fluid(src="@/assets/curso/portada/intro-deco.svg" alt="Imagen decorativa")
       .col-lg-10
-        p.pb-0 El componente formativo "Generalidades de las prácticas agrícolas para el cultivo del plátano" se enfoca en orientar al aprendiz en la producción limpia del plátano, implementando Buenas Prácticas Agrícolas (BPA). Su objetivo es proporcionar los conocimientos necesarios sobre el funcionamiento y los lineamientos que le permitirán, desde el comienzo, iniciar un sistema de producción platanero con bases de planeación y control aplicadas a las BPA, garantizando la calidad e inocuidad del producto. Bienvenido a este componente formativo.
+        p.pb-0 El componente formativo <em>generalidades de las prácticas agrícolas para el cultivo del plátano</em>, se enfoca en orientar al aprendiz en la producción limpia del plátano implementando Buenas Prácticas Agrícolas (BPA), con el fin de adquirir los conocimientos necesarios sobre el funcionamiento y lineamientos que le permitirá desde un comienzo iniciar un sistema de producción platanero con las bases de planeación y control aplicado a las BPA, que garanticen la calidad e inocuidad del dicho producto. Bienvenido a este componente formativo:
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure

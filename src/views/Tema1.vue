@@ -49,8 +49,8 @@
               
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5
         .col-lg-10
-          p.mb-0 Las BPA están orientadas hacia la prevención de la contaminación del producto por parte de agentes patógenos que pueden llegar a este a través del contacto con las personas, buscan mantener la integridad general de los cultivos, evitando siempre que se esparzan contaminantes entre cultivos o que estos accedan a un cultivo a través de fuentes externas. 
-
+          p Las BPA están orientadas hacia la prevención de la contaminación del producto por parte de agentes patógenos que pueden llegar a este a través del contacto con las personas, buscan mantener la integridad general de los cultivos, evitando siempre que se esparzan contaminantes entre cultivos o que estos accedan a un cultivo a través de fuentes externas. 
+          p.mb-0 A continuación, algunos de los lineamientos más importantes para las BPA:
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
           .titulo-sexto.color-acento-contenido.mb-4
@@ -163,7 +163,7 @@
             .row.justify-content-center(titulo="Microbiológicos")
               .col-lg-8
                 .align-content-center
-                  p Desde épocas prehistóricas, la desecación, o secado al aire libre, se ha utilizado para eliminar la humedad de los alimentos, impidiendo el crecimiento de microorganismos que causan su descomposición. Frutas, carnes, pescados y semillas se exponían al sol y al viento para reducir su contenido de agua, prolongando así su vida útil. Esta técnica, sencilla pero efectiva, permitió a las primeras civilizaciones almacenar excedentes de alimentos para épocas de escasez.
+                  p Los riesgos del plátano relacionados con factores microbiológicos, cuando este se encuentra en estado fresco, son relativamente bajos. Esto se debe a que la cáscara del plátano posee una fuerte estructura celular que protege el interior del producto y no permite el acceso a ningún microorganismo. Los inconvenientes graves aparecen cuando la cáscara sufre algún tipo de perforación a causa de maltrato físico, o cuando el producto es atacado por insectos o plagas que la perforan para alimentarse de la pulpa.
               .col-lg-4.d-none.d-lg-block
                 figure
                   img.rounded-5(src='@/assets/curso/temas/tema1/ripe-bananas.jpg', alt='Ilustración decorativa')
@@ -222,6 +222,10 @@
           .tarjeta.tarjeta--acento-contenido-claro.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--5
             h3.text-center.mt-5 Niveles de tratamiento
             p.text-center Determinar y aplicar niveles de tratamiento específicos para cada tipo de plaga y enfermedad dentro de las actividades productivas, asegurando un manejo eficiente y sostenible.
+
+          .tarjeta.tarjeta--acento-contenido-claro.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--14
+            h3.text-center.mt-5 Sistema de transporte y almacenamiento
+            p.text-center Diseñar e implementar programas para garantizar un sistema de transporte y almacenamiento adecuado de los productos cultivados, minimizando riesgos de contaminación y pérdida de calidad.
 
 
       Separador
