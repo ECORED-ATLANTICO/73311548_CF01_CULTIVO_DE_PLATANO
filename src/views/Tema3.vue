@@ -316,8 +316,8 @@
           table.text-center
             thead(style="background-color: #7D9FFB;color: white;")
               tr
-                th Peligro
-                th Control
+                th Peligros
+                th Controles
             tbody
               tr
                 td Contaminación del agua almacenada por mala limpieza en los tanques.

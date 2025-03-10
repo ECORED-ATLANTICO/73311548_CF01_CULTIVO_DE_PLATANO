@@ -236,7 +236,8 @@
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-10
         .col-lg-9
           p Cuando la actividad agrícola se desarrolla bajo los lineamientos de las Buenas Prácticas Agrícolas (BPA), debe orientarse hacia una producción responsable, promoviendo un compromiso integral con la protección y el manejo sostenible del medio ambiente. Este enfoque además de responder a la necesidad de preservar los recursos naturales, también se alinea con las políticas nacionales de producción limpia, cuyo objetivo es minimizar el impacto ambiental y optimizar el uso de insumos.
-          p Para garantizar una producción sostenible y amigable con el entorno, es fundamental implementar estrategias que fomenten el equilibrio entre la productividad agrícola y la conservación de los ecosistemas. Entre las principales estrategias para la producción limpia se destacan las siguientes:
+          p Para garantizar una producción sostenible y amigable con el entorno, es fundamental implementar estrategias que fomenten el equilibrio entre la productividad agrícola y la conservación de los ecosistemas.
+          p Entre las principales estrategias para la producción limpia se destacan las siguientes:
 
         .col-10.col-sm-6.col-lg-3.mb-4.mb-lg-0
           figure
@@ -287,8 +288,8 @@
 
             .row.align-items-center.justify-content-center.py-lg-5
               .col-sm-6.col-lg-7.mb-4.mb-md-0
-                h3 Manejo y disposición de residuos agroquímicos
-                p Establecer mecanismos adecuados para la gestión y disposición final de residuos derivados del uso de agroquímicos, asegurando el cumplimiento de la legislación ambiental colombiana y minimizando el impacto negativo sobre los ecosistemas.
+                h3 Protección y conservación de ecosistemas
+                p Desarrollar y aplicar prácticas orientadas a la preservación y restauración de ecosistemas naturales, asegurando su sostenibilidad y la continuidad de los servicios ambientales que brindan. (Ministerio de Agricultura y Desarrollo Rural, 2004, p. 7).
             
               .col-md-5
                 .px-5.py-3.bg-color-acento-contenido.rounded-4
@@ -302,8 +303,8 @@
                     img.width-110(src='@/assets/curso/temas/tema1/30.svg', alt='Imagen de acompañamiento')(data-aos="fade-up")
 
               .col-sm-6.col-lg-7.text-start
-                h3 Protección y conservación de ecosistemas
-                p Desarrollar y aplicar prácticas orientadas a la preservación y restauración de ecosistemas naturales, asegurando su sostenibilidad y la continuidad de los servicios ambientales que brindan. (Ministerio de Agricultura y Desarrollo Rural, 2004, p. 7).
+                h3 Reforestación y conservación de fuentes hídricas
+                p Participar en programas de reforestación y conservación de áreas estratégicas, especialmente en zonas cercanas a fuentes naturales de agua, con el fin de proteger su calidad y disponibilidad para las futuras generaciones.
             
       .m-footer
 

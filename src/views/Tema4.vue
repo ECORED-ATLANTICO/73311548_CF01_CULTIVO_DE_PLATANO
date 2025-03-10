@@ -34,8 +34,8 @@
           table.text-center
             thead
               tr
-                th Peligro
-                th Control
+                th Peligros
+                th Controles
             tbody
               tr
                 td Que los fertilizantes estén mal compostados,	ocasionando contaminación al cultivo.
