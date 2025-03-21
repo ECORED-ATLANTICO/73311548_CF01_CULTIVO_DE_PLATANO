@@ -56,11 +56,11 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La decisión de implementar Buenas Prácticas Agrícolas (BPA) en el cultivo del plátano requiere una evaluación cuidadosa de sus implicaciones. Es fundamental evaluar tanto las ventajas como las desventajas, considerando factores económicos, de mercado, logísticos y culturales que influyen en la toma de decisiones. Comprender estos aspectos permitirá determinar el impacto a largo plazo de la implementación de las BPA, en la rentabilidad, y sostenibilidad del cultivo.
-
-    h4(data-aos='zoom-in-right').mb-3
+    .bg-sanitaria
+    h4(data-aos='zoom-in-right').mb-3.z-10
       span.banana-title.banana-title--2 Ventajas
     
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.platano-timeline
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.platano-timeline.z-10
       .col-lg-9
         LineaTiempoD.color-terciario.mt-3.mb-4.mb-lg-0
           .row(numero="1" titulo="Acceso a mercados exigentes")
@@ -87,7 +87,7 @@
             .mb-4.mb-lg-0
               p Las BPA fortalecen la reputación de la empresa ante clientes y consumidores, generando confianza y abriendo nuevas oportunidades de negocio.
 
-          .row(numero="6" titulo="Impacto positivo en las comunidades locales")
+          .row(numero="7" titulo="Impacto positivo en las comunidades locales")
             .mb-4.mb-lg-0
               p La implementación de BPA puede promover la inclusión de comunidades aledañas en los mercados locales y regionales, impulsando el desarrollo económico de la zona.
 
@@ -95,10 +95,10 @@
         figure
           img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/6.png', alt='Mujer recolectando plátanos')
 
-    h4(data-aos='zoom-in-right').mb-3
+    h4(data-aos='zoom-in-right').mb-3.z-10
       span.banana-title.banana-title--2 Desventajas
 
-    .row.justify-content-center.align-items-center.platano-timeline
+    .row.justify-content-center.align-items-center.platano-timeline.z-10
       .col-10.col-lg-5.align-content-center
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/7.png', alt='Mujer recolectando plátanos')
@@ -129,7 +129,7 @@
             .mb-4.mb-lg-0
               p Dependiendo del tipo de certificación, la adaptación a las BPA puede tomar varios meses o incluso años, retrasando la obtención de beneficios económicos inmediatos.
 
-          .row(numero="6" titulo="Auditorías periódicas")
+          .row(numero="7" titulo="Auditorías periódicas")
             .mb-4.mb-lg-0
               p Los organismos certificadores realizan inspecciones regulares para verificar el cumplimiento de las normativas. Esto puede generar estrés en los trabajadores, especialmente si no comprenden el propósito de las auditorías.
     
@@ -298,11 +298,11 @@
           img(src='@/assets/curso/temas/tema2/19.svg', alt='Imagen de acompañamiento')
 
     .row.justify-content-center.align-items-center
-      .col-lg-10
-        .bg-icontec.p-5
-          p El ICONTEC es el único organismo colombiano aprobado internacionalmente por la institución Global GAP y cuenta con la acreditación del American National Standards Institute (ANSI) de los Estados Unidos.
-          p Este instituto tiene la facultad de otorgar la certificación Global GAP en Buenas Prácticas Agrícolas, lo que permite a los productores de alimentos acceder a mercados internacionales. Asimismo, el ICONTEC dispone de una normativa propia sobre BPA, incluyendo la Norma Técnica Colombiana (NTC) 5400, que reúne los lineamientos y estándares que una empresa debe seguir para implementar un sistema de Buenas Prácticas Agrícolas.
-
+      .col-lg-10.bg-icontec.pt-xl-3
+        .row
+          .col-xl-10.p-4.px-xl-5
+            p.pe-xl-2 El ICONTEC es el único organismo colombiano aprobado internacionalmente por la institución Global GAP y cuenta con la acreditación del American National Standards Institute (ANSI) de los Estados Unidos.
+            p.mb-0.pe-xl-2 Este instituto tiene la facultad de otorgar la certificación Global GAP en Buenas Prácticas Agrícolas, lo que permite a los productores de alimentos acceder a mercados internacionales. Asimismo, el ICONTEC dispone de una normativa propia sobre BPA, incluyendo la Norma Técnica Colombiana (NTC) 5400, que reúne los lineamientos y estándares que una empresa debe seguir para implementar un sistema de Buenas Prácticas Agrícolas.
     .m-footer
 
 </template>

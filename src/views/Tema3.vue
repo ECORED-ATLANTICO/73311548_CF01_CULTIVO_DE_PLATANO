@@ -27,19 +27,19 @@
           img(src='@/assets/curso/temas/tema3/2.png', alt='Ilustración decorativa')(data-aos="fade-up")
       .col-lg-9
         TabsA.mb-5.banana-tabs-a
-          .tarjeta.bg-color-terciario.p-4.h-100.banana-tabs-a__tarjeta(titulo="Zona de recepción")
+          .tarjeta.bg-color-terciario-t10.p-4.h-100.banana-tabs-a__tarjeta(titulo="Zona de recepción")
             h4 Zona de recepción de racimos
             p La zona donde se ubica el cultivo de plátano debe contar con instalaciones adecuadas para la recepción de los racimos cosechados. El área destinada a este proceso debe tener una altura suficiente que evite el contacto de los racimos con el suelo una vez colgados, garantizando así su integridad y calidad.
 
-          .tarjeta.bg-color-terciario.p-4.h-100.banana-tabs-a__tarjeta(titulo="Tanques de lavado")
+          .tarjeta.bg-color-terciario-t10.p-4.h-100.banana-tabs-a__tarjeta(titulo="Tanques de lavado")
             h4 Tanques de lavado
             p Los tanques de lavado del producto deben estar diseñados con una altura ergonómica que facilite el trabajo del operario, asegurando comodidad y eficiencia en la limpieza. Además, deben estar construidos con materiales resistentes, de fácil mantenimiento y aptos para una limpieza frecuente que cumpla con los estándares de inocuidad. 
 
-          .tarjeta.bg-color-terciario.p-4.h-100.banana-tabs-a__tarjeta(titulo="Zona de secado")
+          .tarjeta.bg-color-terciario-t10.p-4.h-100.banana-tabs-a__tarjeta(titulo="Zona de secado")
             h4 Zona de secado
             p La zona de secado debe ubicarse inmediatamente después del tanque de lavado, permitiendo una transición fluida en el proceso.
 
-          .tarjeta.bg-color-terciario.p-4.h-100.banana-tabs-a__tarjeta(titulo="Almacenamiento")
+          .tarjeta.bg-color-terciario-t10.p-4.h-100.banana-tabs-a__tarjeta(titulo="Almacenamiento")
             h4 Área de almacenamiento de cajas
             p Por su parte, el área destinada al almacenamiento de las cajas con el producto debe contar con una cubierta que impida la exposición directa a los rayos solares. Además, los pisos de este espacio deben estar elaborados con materiales que faciliten la limpieza y desinfección, asegurando condiciones higiénicas óptimas.
 
@@ -94,63 +94,63 @@
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/4.png', alt='Guadaña')(data-aos="zoom-in")
           .square-card__text
             h4 Guadaña 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/5.png', alt='Cuchillo')(data-aos="zoom-in")
           .square-card__text
             h4 Cuchillos
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/6.png', alt='Machete')(data-aos="zoom-in")
           .square-card__text
             h4 Machetes
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/7.png', alt='Tijeras')(data-aos="zoom-in")
           .square-card__text
             h4 Tijeras 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/8.png', alt='Azadones')(data-aos="zoom-in")
           .square-card__text
             h4 Azadones 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/9.png', alt='Bomba de aspersión')(data-aos="zoom-in")
           .square-card__text
             h4 Bomba de aspersión 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/10.png', alt='Tractores')(data-aos="zoom-in")
           .square-card__text
             h4 Tractores 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/11.png', alt='Carros transportadores')(data-aos="zoom-in")
           .square-card__text
             h4 Carros transportadores 
       .col-md-6.col-lg-4.col-xl-3
-        .square-card.bg-color-terciario-t20
+        .square-card.bg-color-terciario-t10
           .square-card__img
             figure
               img(src='@/assets/curso/temas/tema3/12.png', alt='Balanzas')(data-aos="zoom-in")

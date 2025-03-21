@@ -99,7 +99,7 @@ figcaption
     text-align: center
 
   &__title
-    background-color: #93AD5F
+    background-color: #448A47
     color: white
     display: inline-block
     padding: 2px 60px
@@ -430,6 +430,19 @@ figcaption
   background-repeat: no-repeat
   background-size: cover
   border-radius: 20px 0 20px 0
+  position: relative
+  p 
+    color: white
+
+
+@media (min-width: 1025px)
+  .bg-icontec
+    &::after
+      content: url('../assets/curso/temas/tema2/diploma.svg')
+      position: absolute
+      top: 10px
+      right: -25px
+      width: 234px
 
 .bg-sanitaria
   position: relative

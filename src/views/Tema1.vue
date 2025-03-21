@@ -40,7 +40,7 @@
               p El concepto de inocuidad está asociado a la condición del alimento que garantiza la calidad de este, pero principalmente garantiza que el consumidor no sufrirá daños al ingerir el alimento. Cuando se dice que un producto es inocuo, se está garantizando que contiene las condiciones para ser consumido sin perjudicar de ninguna manera la salud de las personas, por lo tanto, puede decirse que la inocuidad de un producto es una garantía de seguridad para el consumidor.
 
         .col-md-8.col-lg-6.col-xl-5
-          .tarjeta-con-image-header.bg-color-adicional-1.h-100(data-aos='zoom-out-up')
+          .tarjeta-con-image-header.bg-color-terciario-t20.h-100(data-aos='zoom-out-up')
             .tarjeta-con-image-header__header
               figure
                 img(src='@/assets/curso/temas/tema1/5.png', alt='Tajadas de plátano')
