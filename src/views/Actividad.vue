@@ -29,6 +29,8 @@ export default {
             'Al cultivo de plátano se le debe realizar una serie de prácticas culturales para evitar problemas fitosanitarios.',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -52,6 +54,8 @@ export default {
             'La planta de plátano se debe mantener libre de malezas porque estas compiten con el cultivo principal por nutrientes, agua y luz.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -75,6 +79,8 @@ export default {
             'Cuando las plantas de plátano son pequeñas tienen más espacio y se puede poblar de malezas a su alrededor con facilidad.',
           imagen: require('@/assets/actividad/3.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -98,6 +104,8 @@ export default {
             'Control químico: este se aplica de manera selectiva en las plataneras que son comerciales.',
           imagen: require('@/assets/actividad/3.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -121,6 +129,8 @@ export default {
             'Control biológico: este se realiza utilizando insectos, hongos y/o bacterias para el control de enfermedades y plagas del cultivo.',
           imagen: require('@/assets/actividad/2.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -144,6 +154,8 @@ export default {
             'El plateo es una técnica que se le realiza al plátano y consiste en mantener el plato de la planta llena de malezas.',
           imagen: require('@/assets/actividad/1.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -167,6 +179,8 @@ export default {
             'Desmanche es una técnica que consiste en extraer todos los colinos que surgieron de la planta madre porque afectan su desarrollo debido a la competencia de luz, agua y nutrientes',
           imagen: require('@/assets/actividad/4.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -190,6 +204,8 @@ export default {
             'Deshoje es una labor que consiste en secar las hojas, dobladas y las que se encuentran en la parte de debajo de la planta.',
           imagen: require('@/assets/actividad/4.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -213,6 +229,8 @@ export default {
             'En el cultivo de plátano se hace necesario el manejo de plagas mediante mecanismos como control biológico o mecánico.',
           imagen: require('@/assets/actividad/5.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
@@ -236,6 +254,8 @@ export default {
             'El proceso de cosecha en fincas plataneras está conformado por tres operaciones importantes tales como el corte de los racimos, el transporte y el empacado.',
           imagen: require('@/assets/actividad/5.png'),
           barajarRespuestas: true,
+          titulo_aprobado: 'Buen trabajo',
+          titulo_reprobado: 'Vuelva a intentarlo',
           opciones: [
             {
               id: 'a',
